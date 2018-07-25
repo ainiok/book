@@ -1,0 +1,17 @@
+{
+  "title": "知识整理",
+  "description":"知识整理",
+  "language": "zh-hans",
+  "extension": null,
+  "generator": "site",
+  "gitbook": "3.x.x",
+  "plugins": [
+    "-search",
+    "github",
+    "anchors",
+    "theme-comscore",
+    "expandable-chapters-small",
+    "search-plus",
+    "changyan"
+  ]
+}
