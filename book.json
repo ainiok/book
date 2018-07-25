@@ -1,14 +1,22 @@
 {
   "title": "知识整理",
   "description":"知识整理",
+  "author":"ainiok",
   "language": "zh-hans",
-  "extension": null,
   "generator": "site",
-  "gitbook": "3.x.x",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md"
+  },
+  "links": {
+    "sidebar": {
+      "Home": "http://blog.ainiok.com"
+    }
+  },
   "plugins": [
     "-search",
-    "github",
-    "github-buttons",
+    "github@^2.0.0",
+    "github-buttons@2.1.0",
     "anchors",
     "theme-comscore",
     "expandable-chapters-small",
@@ -16,7 +24,9 @@
     "changyan",
     "-sharing",
     "sharing-plus",
-    "tbfed-pagefooter"
+    "tbfed-pagefooter",
+    "edit-link@^2.0.2",
+    "anchor-navigation-ex"
   ],
   "pluginsConfig":{
     "github":{
@@ -58,6 +68,16 @@
         "instapaper", "linkedin",
         "pocket", "stumbleupon"
       ]
+    },
+    "edit-link": {
+      "base": "https://github.com/ainiok/book/blob/master",
+      "label": "编辑此页"
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": false,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
     },
     "tbfed-pagefooter": {
       "copyright": "Copyright © www.ainiok.com 2018",
