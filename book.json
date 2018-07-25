@@ -8,10 +8,61 @@
   "plugins": [
     "-search",
     "github",
+    "github-buttons",
     "anchors",
     "theme-comscore",
     "expandable-chapters-small",
     "search-plus",
-    "changyan"
-  ]
+    "changyan",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter"
+  ],
+  "pluginsConfig":{
+    "github":{
+      "url":"https://github.com/ainiok/book"
+    },
+    "github-buttons":{
+      "repo":"ainiok/book",
+      "types": [
+        "star"
+      ],
+      "size": "small"
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "changyan":{
+      "appid": "cytJtmSGP",
+      "conf": ""
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "facebook", "google", "twitter",
+        "instapaper", "linkedin",
+        "pocket", "stumbleupon"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright © www.ainiok.com 2018",
+      "modify_label": "修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
 }
