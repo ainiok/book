@@ -27,3 +27,6 @@ whereis git
  
  
  mvn -version
+ 
+ 
+ 安装 Phing  (构建PHP项目)

@@ -15,6 +15,7 @@
   },
   "plugins": [
     "-search",
+    "favicon",
     "github@^2.0.0",
     "github-buttons@2.1.0",
     "anchors",
@@ -73,6 +74,10 @@
     "edit-link": {
       "base": "https://github.com/ainiok/book/blob/master",
       "label": "编辑此页"
+    },
+    "favicon": {
+      "shortcut": "resource/images/favicon.ico",
+      "bookmark": "resource/images/favicon.ico"
     },
     "anchor-navigation-ex": {
       "isRewritePageTitle": false,
