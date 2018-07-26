@@ -26,7 +26,8 @@
     "sharing-plus",
     "tbfed-pagefooter",
     "edit-link@^2.0.2",
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "codeblock-filename"
   ],
   "pluginsConfig":{
     "github":{
