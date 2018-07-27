@@ -10,7 +10,7 @@
     * [Crontab 计划任务](Linux/crontab.md)
 * [Apache](Linux/README.md)
 * [Nginx](Linux/README.md)
-* [MySQL](Linux/README.md)
+* [MySQL](Mysql/README.md)
 * [PHP](Linux/README.md)
 ## 工具
 * [版本控制](git.md)
