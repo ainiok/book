@@ -64,7 +64,37 @@ gitbook build
 每次往github push代码到master 的时候就会自动构建
 
 
+
 #遇到的问题
+## 在线上的时候shell执行失败
+更改jenkins运行身份
+
+```$xslt
+vim /etc/sysconfig/jenkins
+
+# 修改 $JENKINS_USER="jenkins",去掉注释
+
+$JENKINS_USER="root"
+```
+
+修改Jenkins相关文件夹权限
+
+```
+chown -R root:root /var/lib/jenkins
+chown -R root:root /var/cache/jenkins
+chown -R root:root /var/log/jenkins
+```
+
+重启服务
+
+```
+# 重启Jenkins（若是其他方式安装的jenkins则重启方式略不同）
+systemctl restart jenkins
+# 查看Jenkins进程所属用户
+ps -ef | grep jenkins
+# 若显示为root用户，则表示修改完
+
+```
 
 ## 构建 Maven风格项目时
 
