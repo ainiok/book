@@ -9,9 +9,10 @@
     * [Linux网络相关命令](Linux/network.md)
     * [Crontab 计划任务](Linux/crontab.md)
 * [Apache](Linux/README.md)
-* [Nginx](Linux/README.md)
+* [Nginx](Nginx/README.md)
 * [MySQL](Mysql/README.md)
 * [PHP](Linux/README.md)
+
 ## 工具
 * [版本控制](git.md)
     * [git](git.md)
