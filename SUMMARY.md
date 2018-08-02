@@ -20,3 +20,7 @@
 * [jenkins](Jenkins/README.md)
     * [安装](Jenkins/README.md)
     * [自动部署](Jenkins/build.md)
+    
+## Python
+* [Python基础](Python/README.md)
+* [Python爬虫](Python/README.md)
