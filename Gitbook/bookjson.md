@@ -18,7 +18,7 @@
 * [baidu](#baidu)
 * [ga](#ga)
 * [include-codeblock](#include-codeblock)
-
+* [advanced-emoji](#advanced-emoji)
 
 
 #配置：
@@ -172,6 +172,9 @@ Google统计
 [插件地址](https://plugins.gitbook.com/plugin/include-codeblock)
 
 
+#advanced-emoji
+emoji表情
+[查看支持的表情](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 
 [](http://gitbook.zhangjikai.com/plugins.html)
