@@ -15,20 +15,25 @@
   },
   "plugins": [
     "-search",
+    "alerts",
+    "changyan2",
+    "copy-code-button",
     "favicon",
+    "todo",
     "github@^2.0.0",
     "github-buttons@2.1.0",
     "anchors",
     "theme-comscore",
     "expandable-chapters-small",
     "search-plus",
-    "changyan2",
     "-sharing",
+    "rss",
     "sharing-plus",
     "tbfed-pagefooter",
     "edit-link@^2.0.2",
     "anchor-navigation-ex",
-    "codeblock-filename"
+    "codeblock-filename",
+    "advanced-emoji"
   ],
   "pluginsConfig":{
     "github":{
@@ -89,6 +94,18 @@
       "copyright": "Copyright © www.ainiok.com 2018",
       "modify_label": "修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "rss": {
+      "title": "知识整理",
+      "description": "知识整理",
+      "author": "ainiok",
+      "feed_url": "https://book.ainiok.com/rss",
+      "site_url": "https://book.ainiok.com/",
+      "managingEditor": "job@ainiok.com",
+      "webMaster": "job@ainiok.com",
+      "categories": [
+        "gitbook"
+      ]
     }
   }
 }

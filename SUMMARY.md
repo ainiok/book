@@ -26,7 +26,8 @@
 ## 工具
 * [版本控制](git.md)
     * [git](git.md)
-* [gitbook](gitbook.md)
+* [gitbook](Gitbook/gitbook.md)
+    * [配置和插件](Gitbook/bookjson.md)
 * [jenkins](Jenkins/README.md)
     * [安装](Jenkins/README.md)
     * [自动部署](Jenkins/build.md)
