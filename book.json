@@ -15,6 +15,7 @@
   },
   "plugins": [
     "-search",
+    "3-ba",
     "alerts",
     "changyan2",
     "copy-code-button",
@@ -29,11 +30,13 @@
     "-sharing",
     "rss",
     "sharing-plus",
+    "sectionx",
     "tbfed-pagefooter",
     "edit-link@^2.0.2",
     "anchor-navigation-ex",
     "codeblock-filename",
-    "advanced-emoji"
+    "advanced-emoji",
+    "simple-page-toc@^0.1.1"
   ],
   "pluginsConfig":{
     "github":{
@@ -76,6 +79,9 @@
         "pocket", "stumbleupon"
       ]
     },
+    "sitemap-general": {
+      "prefix": "https://book.ainiok.com"
+    },
     "edit-link": {
       "base": "https://github.com/ainiok/book/blob/master",
       "label": "编辑此页"
@@ -94,6 +100,12 @@
       "copyright": "Copyright © www.ainiok.com 2018",
       "modify_label": "修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "3-ba": {
+      "token": "8a8b4b6ab40d2107d49f836eb89eb7f6"
     },
     "rss": {
       "title": "知识整理",
