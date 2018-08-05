@@ -34,4 +34,5 @@
     
 ## Python
 * [Python基础](Python/README.md)
+    * [list 和 tuple]()
 * [Python爬虫](Python/README.md)
