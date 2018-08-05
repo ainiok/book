@@ -5,7 +5,8 @@
    - windows
    
    - Linux
-   ```
+   
+```
 yum -y install zlib-devel openssl-devel cpio expat-devel gettext-devel curl-devel perl-ExtUtils-CBuilder perl-ExtUtils-MakeMaker
 
 https://mirrors.edge.kernel.org/pub/software/scm/git/
