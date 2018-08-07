@@ -34,5 +34,9 @@
     
 ## Python
 * [Python基础](Python/README.md)
-    * [list 和 tuple]()
+    * [list 和 tuple](Python/listtuple.md)
+    * [dict 和 set](Python/dictset.md)
 * [Python爬虫](Python/README.md)
+
+## Java
+* [Java基础](Java/jdk.md)
