@@ -10,8 +10,10 @@
     * [Crontab 计划任务](Linux/crontab.md)
 * [Apache](Linux/README.md)
 * [Nginx](Nginx/README.md)
+    * [安装](Nginx/install.md)
 * [MySQL](Mysql/README.md)
 * [PHP](Linux/README.md)
+* [安装](lanmp.md)
 
 ## 操作系统和网络
 * [计算机网络](Network/README.md)
