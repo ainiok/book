@@ -24,6 +24,7 @@
     * [HTTPS协议](Network/https.md)
     * [HTTP2协议](Network/http2.md)
     * [Websocket](Network/websocket.md)
+    * [域名解析](Network/domainresolve.md)
 
 ## 工具
 * [版本控制](git.md)
