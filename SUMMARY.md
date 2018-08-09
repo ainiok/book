@@ -34,7 +34,7 @@
 * [jenkins](Jenkins/README.md)
     * [安装](Jenkins/README.md)
     * [自动部署](Jenkins/build.md)
-* [Elasticsearch](Elasticseach/README.md)
+* [Elasticsearch](Elasticsearch/README.md)
     
 ## Python
 * [Python基础](Python/README.md)
