@@ -26,3 +26,7 @@ pasv_max_port=31000
 ```
 
 `vi /etc/vsftpd/chroot_list`  添加 xiao 用户
+
+- 重新启动
+
+`systemctl restart vsftpd`
