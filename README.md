@@ -3,3 +3,4 @@
 
 同时也欢迎大家提交PR，主要谢谢大家的star。
 
+> 邮箱 job@ainiok.com

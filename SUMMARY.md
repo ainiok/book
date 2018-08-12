@@ -12,6 +12,7 @@
 * [Nginx](Nginx/README.md)
     * [安装](Nginx/install.md)
 * [MySQL](Mysql/README.md)
+    * [高可用](Mysql/Highavailability.md)
 * [PHP](Linux/README.md)
 * [安装](lanmp.md)
 
@@ -35,6 +36,7 @@
     * [安装](Jenkins/README.md)
     * [自动部署](Jenkins/build.md)
 * [Elasticsearch](Elasticsearch/README.md)
+* [go-mysql-elasticsearch](gomysqlelasticsearch.md)
     
 ## Python
 * [Python基础](Python/README.md)
