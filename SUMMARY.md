@@ -32,6 +32,7 @@
     * [git](git.md)
 * [gitbook](Gitbook/gitbook.md)
     * [配置和插件](Gitbook/bookjson.md)
+    * [插件](Gitbook/plugin.md)
     * [gitlab + gitbook](Gitbook/gitlab.md)
 * [jenkins](Jenkins/README.md)
     * [安装](Jenkins/README.md)

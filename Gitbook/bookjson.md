@@ -1,4 +1,6 @@
 # 配置
+这个是记录我现在已使用的插件
+
 * [title](#title)
 * [author](#author)
 * [description](#description)
