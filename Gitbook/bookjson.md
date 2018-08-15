@@ -1,4 +1,6 @@
 # 配置
+这个是记录我现在已使用的插件
+
 * [title](#title)
 * [author](#author)
 * [description](#description)
@@ -9,6 +11,8 @@
 * [pluginsConfig](#pluginsConfig)
 
 # 插件
+* [Disqus](#Disqus)
+* [Anchors github风格的锚点](#Anchors)
 * [search-plus](#search Plus)
 * [versions](#versions)
 * [Terminal](#Terminal)
@@ -91,6 +95,15 @@ Gitbook 默认带有5个插件
 
 # 插件：
 记录一些实用的插件
+#Disqus
+添加disqus评论
+
+[插件地址](https://plugins.gitbook.com/plugin/disqus)
+
+#Anchors
+[插件地址](https://plugins.gitbook.com/plugin/anchors)
+
+`"plugins" : [ "anchors" ]`
 
 #search Plus
 

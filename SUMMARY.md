@@ -15,7 +15,7 @@
     * [高可用](Mysql/Highavailability.md)
 * [PHP](Linux/README.md)
 * [安装](lanmp.md)
-
+* [Swoole](Swoole/README.md)
 ## 操作系统和网络
 * [计算机网络](Network/README.md)
     * [IP协议](Network/ip.md)
@@ -32,6 +32,8 @@
     * [git](git.md)
 * [gitbook](Gitbook/gitbook.md)
     * [配置和插件](Gitbook/bookjson.md)
+    * [插件](Gitbook/plugin.md)
+    * [gitlab + gitbook](Gitbook/gitlab.md)
 * [jenkins](Jenkins/README.md)
     * [安装](Jenkins/README.md)
     * [自动部署](Jenkins/build.md)
