@@ -50,6 +50,7 @@
 * [运维](Operation/README.md)
     * [Logrotate](Operation/logrotate.md)
 * [安全](Safe/README.md)
+* [Shell](Shell/README.md)
 
 ## Java
 * [Java基础](Java/jdk.md)
