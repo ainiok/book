@@ -50,6 +50,7 @@
 ## 运维
 * [运维](Operation/README.md)
     * [Logrotate](Operation/logrotate.md)
+    * [服务器记录操作日志](Operation/histories.md)
 * [安全](Safe/README.md)
 * [Shell](Shell/README.md)
 
