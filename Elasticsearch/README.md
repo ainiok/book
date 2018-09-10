@@ -6,6 +6,7 @@ rpm -ivh elasticsearch-5.0.0.rpm
 ```
 
 ## 安装IK 分词插件
+> elasticsearch 的版本大于5.5.0
 ```
 /usr/share/elasticsearch/bin/elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v5.0.0/elasticsearch-analysis-ik-5.0.0.zip
 ```
