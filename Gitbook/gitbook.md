@@ -69,3 +69,14 @@ You can use the options `--log=debug` and `--debug` to get better error messages
 ```
 $ gitbook build ./ --log=debug --debug
 ```
+
+# 多语言 LANGS.md
+
+> GitBook支持使用多语言来构建书本。按照GitBook的标准格式，每个语言应该作为一个子目录，命名为 LANGS.md 的文件应该遵循下面的格式并出现在仓库的根目录下：
+
+```
+* [中文](zh/)
+* [英语](en/)
+* [法语](fr/)
+* [西班牙语](es/)
+```
