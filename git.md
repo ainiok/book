@@ -9,9 +9,9 @@
 ```
 yum -y install zlib-devel openssl-devel cpio expat-devel gettext-devel curl-devel perl-ExtUtils-CBuilder perl-ExtUtils-MakeMaker
 
-https://mirrors.edge.kernel.org/pub/software/scm/git/
+https://mirrors.edge.kernel.org/pub/software/scm/git/  #到这里可以查看各个版本
 
-wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.18.0.tar.gz
+wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.19.1.tar.gz
 
 tar -zxvf 
 
