@@ -175,6 +175,7 @@ editor.renderer.updateFontSize();
 ```
 使用示例:
 
+```
 {%ace edit=true, lang='c_cpp'%}
 // This is a hello world program for C.
 #include <stdio.h>
@@ -184,6 +185,7 @@ int main(){
   return 1;
 }
 {%endace%}
+```
 
 ## Emphasize
 为文字加上底色
@@ -196,6 +198,7 @@ int main(){
 ```
 使用示例:
 
+```
 This text is {% em %}highlighted !{% endem %}
 
 This text is {% em %}highlighted with **markdown**!{% endem %}
@@ -205,6 +208,7 @@ This text is {% em type="green" %}highlighted in green!{% endem %}
 This text is {% em type="red" %}highlighted in red!{% endem %}
 
 This text is {% em color="#ff0000" %}highlighted with a custom color!{% endem %}
+```
 
 ## KaTex
 为了支持数学公式, 我们可以使用`KaTex`和`MathJax`插件, 官网上说`Katex`速度要快于`MathJax`
@@ -218,6 +222,7 @@ This text is {% em color="#ff0000" %}highlighted with a custom color!{% endem %}
 ```
 使用示例:
 
+```
 When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 + bx + c = 0){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}
 
 $$
@@ -227,6 +232,7 @@ $$
 $$
 1 \over 3
 $$
+```
 
 ## Include Codeblock
 使用代码块的格式显示所包含文件的内容. 该文件必须存在。插件提供了一些配置，可以区插件官网查看。如果同时使用 ace 和本插件，本插件要在 ace 插件前面加载。
@@ -304,6 +310,7 @@ Class Stage
 ```
 效果如下所示：
 
+```
 {% plantuml %}
 Class Stage
     Class Timeout {
@@ -314,6 +321,7 @@ Class Stage
     }
     Stage <|-- Timeout
 {% endplantuml %}
+```
 
 
 ## Graph
@@ -350,6 +358,7 @@ Class Stage
 ```
 
 效果如下所示：
+```angular2html
 {% graph %}
 {
     "title": "1/x * cos(1/x)",
@@ -366,6 +375,7 @@ Class Stage
     }]
 }
 {% endgraph %}
+```
 
 ## Chart
 使用 C3.js 或者 Highcharts 绘制图形。
@@ -409,6 +419,7 @@ type 可以是 `c3` 或者 `highcharts`, 默认是 `c3`.
 {% endchart %}
 ```
 效果如下所示：
+```
 {% chart %}
 {
     "data": {
@@ -428,6 +439,7 @@ type 可以是 `c3` 或者 `highcharts`, 默认是 `c3`.
     }
 }
 {% endchart %}
+```
 
 ## Sharing-plus
 分享当前页面，比默认的 sharing 插件多了一些分享方式。
@@ -509,11 +521,13 @@ plugins: ["expandable-chapters-small"]
 ```
 使用示例
 
+```
 <!--sec data-title="Sectionx Demo" data-id="section0" data-show=true ces-->
 
 Insert markdown content here (you should start with h3 if you use heading).  
 
 <!--endsec-->
+```
 
 ## GA
 Google 统计  
@@ -585,7 +599,7 @@ poster="https://book.ainiok.com/resource/poster.jpg" data-setup='{"aspectRatio":
     width:100%;
     height: 100%;
 }
-```
+
 <br />
 {% raw %}
 <video id="my-video" class="video-js" controls preload="auto" width="100%" poster="https://book.ainiok.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
@@ -596,6 +610,7 @@ poster="https://book.ainiok.com/resource/poster.jpg" data-setup='{"aspectRatio":
   </p>
 </video>
 {% endraw %}
+```
 
 ## Simple-page-toc
 自动生成本页的目录结构。另外 GitBook 在处理重复的标题时有些问题，所以尽量不适用重复的标题。
@@ -866,7 +881,9 @@ Success styling
 ```
 效果如下所示：
 
+```
 {% includeCsv  src="./assets/csv/test.csv", useHeader="true" %} {% endincludeCsv %}
+```
 
 ## Musicxml
 支持 musicxml 格式的乐谱渲染。
@@ -885,7 +902,9 @@ Success styling
 {% musicxml %}assets/musicxml/mandoline - debussy.xml{% endmusicxml %}
 ```
 效果如下所示
+```
 {% musicxml %}assets/musicxml/mandoline - debussy.xml{% endmusicxml %}
+```
 
 ## Klipse
 集成 Klipse (online code evaluator)
