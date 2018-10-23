@@ -17,7 +17,6 @@
     "-search",
     "3-ba",
     "alerts",
-    "changyan2",
     "copy-code-button",
     "favicon",
     "todo",
@@ -51,10 +50,6 @@
     },
     "theme-default": {
       "showLevel": true
-    },
-    "changyan":{
-      "appid": "cytJtmSGP",
-      "conf": ""
     },
     "sharing": {
       "douban": false,
