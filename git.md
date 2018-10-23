@@ -13,7 +13,7 @@ https://mirrors.edge.kernel.org/pub/software/scm/git/  #到这里可以查看各
 
 wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.19.1.tar.gz
 
-tar -zxvf 
+tar -zxvf  && cd git-2.19.1 && ./configure --prefix=/usr/bin 
 
 ./configure
 make && make install

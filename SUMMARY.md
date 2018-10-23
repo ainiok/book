@@ -14,6 +14,8 @@
 * [MySQL](Mysql/README.md)
     * [高可用](Mysql/Highavailability.md)
 * [PHP](Linux/README.md)
+    * [PHP内核](PHP/kernel.md)
+    * [代码段](PHP/code.md)
 * [安装](lanmp.md)
 * [Swoole](Swoole/README.md)
 * [设计模式](DesignPatterns/README.md)
