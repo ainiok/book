@@ -11,6 +11,7 @@
 * [Apache](Linux/README.md)
 * [Nginx](Nginx/README.md)
     * [安装](Nginx/install.md)
+    * [负载均衡](Nginx/LoadBalance.md)
 * [MySQL](Mysql/README.md)
     * [高可用](Mysql/Highavailability.md)
 * [PHP](Linux/README.md)
