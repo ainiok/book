@@ -10,4 +10,4 @@
 /src/http/ngx_http_header_filter_module.c 的 49行
 
 修改 
-/src/http/ngx_http_special_response.c 的 36行或22行
+/src/http/ngx_http_special_response.c 的 36行
