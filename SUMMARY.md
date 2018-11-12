@@ -13,6 +13,7 @@
     * [安装](Nginx/install.md)
     * [负载均衡](Nginx/LoadBalance.md)
 * [MySQL](Mysql/README.md)
+    * [安装](Mysql/Install.md)
     * [高可用](Mysql/Highavailability.md)
 * [PHP](Linux/README.md)
     * [PHP内核](PHP/kernel.md)
