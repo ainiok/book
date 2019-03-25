@@ -22,6 +22,7 @@
     "todo",
     "github@^2.0.0",
     "github-buttons@2.1.0",
+    "gitbook-plugin-push-bd",
     "anchors",
     "theme-comscore",
     "expandable-chapters-small",
