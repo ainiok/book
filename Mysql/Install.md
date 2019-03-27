@@ -67,4 +67,4 @@ RemainAfterExit=yes
 
 ### 源码安装
 
-> 参考github  https://github.com/ainiok/PhpEnv/blob/master/envinstall.sh
+> 参考github  https://github.com/ainiok/build-script/blob/master/deploy.sh
