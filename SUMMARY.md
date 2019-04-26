@@ -4,6 +4,7 @@
 * [关于](README.md)
 
 ## LANMP
+* [安装](lanmp.md)
 * [Linux](Linux/README.md)
     * [Linux基本操作命令](Linux/basic.md)
     * [Linux网络相关命令](Linux/network.md)
@@ -20,8 +21,9 @@
 * [PHP](Linux/README.md)
     * [PHP内核](PHP/kernel.md)
     * [代码段](PHP/code.md)
-* [安装](lanmp.md)
 * [Swoole](Swoole/README.md)
+    * [easyswoole](EasySwoole)
+        * [安装](EasySwoole/install.md)
 * [设计模式](DesignPatterns/README.md)
 ## 操作系统和网络
 * [计算机网络](Network/README.md)
