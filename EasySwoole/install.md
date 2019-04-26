@@ -55,3 +55,12 @@ composer dumpautoload
 # 启动框架
 php easyswoole start
 ```
+
+## 数据库
+
+安装命令
+
+```bash
+composer require easyswoole/mysqli
+```
+

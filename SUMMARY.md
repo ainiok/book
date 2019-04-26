@@ -22,7 +22,7 @@
     * [PHP内核](PHP/kernel.md)
     * [代码段](PHP/code.md)
 * [Swoole](Swoole/README.md)
-    * [easyswoole](EasySwoole)
+    * [easyswoole](EasySwoole/install.md)
         * [安装](EasySwoole/install.md)
 * [设计模式](DesignPatterns/README.md)
 ## 操作系统和网络
