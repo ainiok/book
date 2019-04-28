@@ -21,6 +21,7 @@
 * [PHP](Linux/README.md)
     * [PHP内核](PHP/kernel.md)
     * [代码段](PHP/code.md)
+    * [Laravel](Laravel/Nav.md)
 * [Swoole](Swoole/README.md)
     * [easyswoole](EasySwoole/install.md)
         * [安装](EasySwoole/install.md)
