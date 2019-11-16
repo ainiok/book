@@ -4,9 +4,9 @@
 
 `./configure`是用来检测你的安装平台的目标特征的。比如它会检测你是不是有安装CC或GCC，并不是需要CC或GCC，它是个shell脚本。
 
-一般用来生成 Makefile，为下一步的编译做准备。
+一般用来生成 `Makefile`，为下一步的编译做准备。
 
-你可以通过在 configure 后加上参数来对安装进行控制，比如代码:
+你可以通过在 `configure` 后加上参数来对安装进行控制，比如代码:
 
 `./configure --prefix=/usr/local/xxx`
 

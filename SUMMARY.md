@@ -3,6 +3,9 @@
 # 前言
 * [关于](README.md)
 
+## golang
+* [代码片段](Golang/Code/nav.md)
+
 ## LANMP
 * [安装](lanmp.md)
 * [Linux](Linux/README.md)
@@ -58,6 +61,7 @@
     * [list 和 tuple](Python/listtuple.md)
     * [dict 和 set](Python/dictset.md)
 * [Python爬虫](Python/README.md)
+    * [爬取elasticsearch英文文档](Python/code/xpath.md)
 
 ## 运维
 * [运维](Operation/README.md)
