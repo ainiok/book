@@ -1,7 +1,7 @@
 ## 图片转base64
 
 ```blade
-file, _ := os.Open("20190220020008_83722.jpg")
+file, _ := os.Open("20190220020008_83722.jpg") // 只能打开本地文件
 defer file.Close()
 
 stats, _ := file.Stat()
