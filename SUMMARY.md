@@ -60,9 +60,10 @@
 * [Python基础](Python/README.md)
     * [list 和 tuple](Python/listtuple.md)
     * [dict 和 set](Python/dictset.md)
-* [Python爬虫](Python/README.md)
+* [Python爬虫](Python/code/README.md)
     * [爬取elasticsearch英文文档](Python/code/xpath.md)
-
+* [第三方包](Python/package/README.md)
+    * [Scoop](Python/package/scoop.md)
 ## 运维
 * [运维](Operation/README.md)
     * [Logrotate](Operation/logrotate.md)
